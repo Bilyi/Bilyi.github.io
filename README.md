@@ -7,48 +7,17 @@
 ```
   npm install
 ```
-3. For works with code, run next comand: 
+3. For start editin code, run the next comand: 
 
 ```
   npm run start
 ```
 Then go to [http://localhost:8080](http://localhost:8080).
-In this script a watcher will be run automaticly. And now you can work with broject.
+And now you can work with broject.
+In this script a watcher will be run automaticly.
 
 4. For deploing run the next comand: 
 ```
   npm run build
 ```
 Then you can copy files from the **build** folder and paste to any host.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bilyi/Bilyi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
