@@ -21,3 +21,6 @@ In this script a watcher will be run automaticly.
   npm run build
 ```
 Then you can copy files from the **build** folder and paste to any host.
+
+
+If you open the next link [https://bilyi.github.io/](https://bilyi.github.io) you can test how my project is working.
