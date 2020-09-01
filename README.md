@@ -1,8 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to my project
 
-You can use the [editor on GitHub](https://github.com/Bilyi/Bilyi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. For start you need to clone repository.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. Then you need to instal packages: 
+
+```
+  npm install
+```
+3. For works with code, run next comand: 
+
+```
+  npm run start
+```
+Then go to [http://localhost:8080](http://localhost:8080).
+In this script a watcher will be run automaticly. And now you can work with broject.
+
+4. For deploing run the next comand: 
+```
+  npm run build
+```
+Then you can copy files from the **build** folder and paste to any host.
 
 ### Markdown
 
