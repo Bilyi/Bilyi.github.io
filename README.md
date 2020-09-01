@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to my project
 
-You can use the [editor on GitHub](https://github.com/Bilyi/Bilyi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. For start you need to clone repository from **dev** branch.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. Then you need to instal packages: 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+  npm install
+```
+3. For start editin code, run the next comand: 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+  npm run start
+```
+Then go to [http://localhost:8080](http://localhost:8080).
+And now you can work with broject.
+In this script a watcher will be run automaticly.
 
-### Jekyll Themes
+4. For deploing run the next comand: 
+```
+  npm run build
+```
+Then you can copy files from the **build** folder and paste to any host.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bilyi/Bilyi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you open the next link [https://bilyi.github.io/](https://bilyi.github.io) you can test how my project is working.
